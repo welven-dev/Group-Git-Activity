@@ -1,0 +1,4 @@
+Leader Tasks:
+- Created repository
+- Managed branches
+- Merged updates into main branch
