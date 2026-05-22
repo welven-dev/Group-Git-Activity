@@ -1,0 +1,4 @@
+Member Tasks:
+- Updated documentation
+- Added branch updates
+- Submitted changes to repository
